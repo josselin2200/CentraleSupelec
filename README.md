@@ -1,2 +1,2 @@
 # CentraleSupélec
-Labs and Projects done during CentraleSpélec
+Labs and Projects done during CentraleSupélec
